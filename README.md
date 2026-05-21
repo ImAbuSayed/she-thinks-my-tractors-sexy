@@ -15,7 +15,7 @@
 | **Written On** | May 19, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/she-thinks-my-tractors-sexy/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Official Music Licensing for She Thinks My Tractor’s Sexy](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/she-thinks-my-tractors-sexy/) |
+| **Get License** | [Commercial Licensing for She Thinks My Tractor’s Sexy](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/she-thinks-my-tractors-sexy/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `d16126974bc2cd7f9299f9633e38242d6bbe7e9ba55a7910596587e87656ea0c` |
 | **Timestamp** | May 22, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.
